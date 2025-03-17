@@ -13,7 +13,7 @@ Sou iniciante na programação e criei este espaço para documentar minha evolu�
 Meu objetivo com este repositório é acompanhar meu progresso, aprender com meus erros e, quem sabe, ajudar outras pessoas que também estão começando! Se tiver sugestões ou dicas, sinta-se à vontade para contribuir.  
 
 ## Bora evoluir juntos?
-Se você também está aprendendo Python e quer trocar ideias, fique à vontade para abrir **issues**, sugerir melhorias ou apenas dizer um "oi"! 😃  
+Se você também está aprendendo Python e quer trocar ideias, fique à vontade para abrir **issues** e sugerir melhorias.
 
 ---
 
